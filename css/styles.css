@@ -7,7 +7,7 @@ body, header, nav, main, footer, h1, h2, div, img, ul, li{
 	border: 0;
 }
 body {
-	background-color: #e4f2ea;
+	background-color: #c898f8;
 	
 }
 
@@ -16,7 +16,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #291111;
 }
 
 li {
@@ -25,7 +25,7 @@ li {
 
 li a {
   display: inline-block;
-  color: white;
+  color: rgb(58, 45, 62);
   text-align: center;
   padding: 16px;
   text-decoration: none;
@@ -48,13 +48,11 @@ img {
 
 .header {
 	overflow: hidden;
-	background-color: blueviolet;
 	padding: 20px 10px;
 }
 
 .header a {
 	float: left;
-	color: blueviolet;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -90,7 +88,7 @@ header img {
 
 main {
 	width: 100%;
-	mine-height: 500px;
+	min-height: 500px;
 }
 
 #container {
@@ -98,7 +96,7 @@ main {
 	margin: 0 auto;
 	width: 80%;
 	min-height: 500px;
-	background-color: whitesmoke;
+	background-color: rgb(93, 93, 93);
 }
 
 #container img{
