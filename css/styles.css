@@ -7,7 +7,7 @@ body, header, nav, main, footer, h1, h2, div, img, ul, li{
 	border: 0;
 }
 body {
-	background-color: #c898f8;
+	background-color: #9122ff;
 	
 }
 
@@ -96,7 +96,7 @@ main {
 	margin: 0 auto;
 	width: 80%;
 	min-height: 500px;
-	background-color: rgb(0, 0, 0);
+	background-color: rgb(83, 83, 83);
 }
 
 #container img{
